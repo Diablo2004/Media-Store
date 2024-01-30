@@ -1,0 +1,185 @@
+{
+  "users": [
+    {
+      "id": "852d",
+      "name": "Luke Huels"
+    },
+    {
+      "id": "7b6a",
+      "name": "Jamie Kshlerin"
+    },
+    {
+      "id": "7886",
+      "name": "Cody Fay"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "b263",
+      "userId": null,
+      "title": "Incredible Frozen Mouse"
+    },
+    {
+      "id": "9ac8",
+      "userId": null,
+      "title": "Refined Granite Keyboard"
+    },
+    {
+      "id": "021d",
+      "userId": null,
+      "title": "Unbranded Rubber Pants"
+    },
+    {
+      "id": "1402",
+      "userId": null,
+      "title": "Luxurious Frozen Sausages"
+    },
+    {
+      "id": "6ca8",
+      "userId": null,
+      "title": "Rustic Fresh Fish"
+    },
+    {
+      "id": "c304",
+      "userId": null,
+      "title": "Unbranded Metal Mouse"
+    },
+    {
+      "id": "f171",
+      "userId": null,
+      "title": "Licensed Granite Table"
+    },
+    {
+      "id": "0088",
+      "userId": null,
+      "title": "Sleek Concrete Shirt"
+    },
+    {
+      "id": "b2ce",
+      "userId": null,
+      "title": "Licensed Granite Pants"
+    },
+    {
+      "id": "6232",
+      "userId": null,
+      "title": "Gorgeous Wooden Cheese"
+    },
+    {
+      "id": "7b2b",
+      "userId": null,
+      "title": "Practical Frozen Table"
+    },
+    {
+      "id": "032d",
+      "userId": null,
+      "title": "Incredible Plastic Bike"
+    },
+    {
+      "id": "4c87",
+      "userId": null,
+      "title": "Electronic Granite Computer"
+    },
+    {
+      "id": "7eba",
+      "userId": null,
+      "title": "Generic Cotton Table"
+    },
+    {
+      "id": "df3b",
+      "userId": null,
+      "title": "Unbranded Wooden Ball"
+    },
+    {
+      "id": "97c4",
+      "userId": null,
+      "title": "Intelligent Fresh Chips"
+    },
+    {
+      "id": "0523",
+      "userId": null,
+      "title": "Bespoke Fresh Computer"
+    },
+    {
+      "id": "cb09",
+      "userId": null,
+      "title": "Gorgeous Rubber Gloves"
+    },
+    {
+      "id": "5cfb",
+      "userId": null,
+      "title": "Generic Granite Tuna"
+    },
+    {
+      "id": "bbc3",
+      "userId": null,
+      "title": "Modern Steel Table"
+    },
+    {
+      "id": "1d1d",
+      "userId": null,
+      "title": "Generic Metal Tuna"
+    },
+    {
+      "id": "f3e8",
+      "userId": null,
+      "title": "Luxurious Fresh Bacon"
+    },
+    {
+      "id": "ef9c",
+      "userId": null,
+      "title": "Small Frozen Table"
+    },
+    {
+      "id": "f7dc",
+      "userId": null,
+      "title": "Elegant Bronze Table"
+    },
+    {
+      "id": "b21d",
+      "userId": null,
+      "title": "Handmade Fresh Pizza"
+    },
+    {
+      "id": "eb65",
+      "userId": null,
+      "title": "Refined Granite Shirt"
+    },
+    {
+      "id": "1a5d",
+      "userId": null,
+      "title": "Oriental Frozen Cheese"
+    },
+    {
+      "id": "0174",
+      "userId": "852d",
+      "title": "Tasty Bronze Pants"
+    },
+    {
+      "id": "6f17",
+      "userId": "852d",
+      "title": "Handmade Soft Chips"
+    }
+  ],
+  "photos": [
+    {
+      "id": "f3dd",
+      "albumId": "0174",
+      "url": "https://loremflickr.com/150/150/abstract?lock=883293861969920"
+    },
+    {
+      "id": "6695",
+      "albumId": "0174",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3946656827441152"
+    },
+    {
+      "id": "6563",
+      "albumId": "0174",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3301464325750784"
+    }
+  ]
+}
